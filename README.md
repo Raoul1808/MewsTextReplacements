@@ -8,6 +8,11 @@
  - Customizable Game Over Screen ("Failed" text)
  - More to come!
 
+## Usage
+ This mod adds a new file in your Documents folder called `FailedTexts.txt`
+ All you have to do is to add your own text, with each entry on a separate line. It's as easy as that!
+ Note: Changes apply only when the game opens. It doesn't update in-game.
+
 ## Building
  Building the mod requires you to own Spin Rhythm XD on Steam, [with the modloader installed as well](https://github.com/SRXDModdingGroup/SRXDBepInExInstaller/releases/latest).
  
