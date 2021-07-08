@@ -18,13 +18,13 @@
     - `core/0Harmony.dll`
     - `core/BepInEx.Core.dll`
     - `core/BepInEx.IL2CPP.dll`
-    - `core.UnhollowerBaseLib.dll`
+    - `core/UnhollowerBaseLib.dll`
     - `unhollowed/Assembly-CSharp.dll`
     - `unhollowed/Il2Cppmscorlib.dll`
     - `unity-libs/Unity.TextMeshPro.dll`
     - `unity-libs/UnityEngine.CoreModule.dll`
     - `unity-libs/UnityEngine.UI.dll`
- 5. Compile the mod. It run the game automatically if no errors occur.
+ 5. Compile the mod. It runs the game automatically if no errors occur.
  
  - If you get a post-build error, change this path `copy . . . "D\Steam\steamapps\common\Spin Rhythm XD\BepInEx\plugins"` to your Spin Rhythm XD/BepInEx/plugins path, or just remove the line (don't forget you have to copy manually the mod!)
  - If you have issues running the modloader after copying the dependencies, that's because you moved them instead of copying them. Either reinstall the modloader or fix your mistakes
